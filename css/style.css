@@ -1,0 +1,8 @@
+.frame {
+    height: 250px;
+    width: 250px;
+}
+.frame img {
+    max-width: 200px;
+    max-height: 200px;
+}
